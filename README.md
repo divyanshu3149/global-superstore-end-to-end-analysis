@@ -93,7 +93,6 @@ Key questions addressed:
 
 ---
 
-## 📊 Dashboard Preview
 
 ## 📊 Dashboard Preview  
 
