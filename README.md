@@ -95,7 +95,7 @@ Key questions addressed:
 
 ## 📊 Dashboard Preview
 
-https://raw.githubusercontent.com/divyanshu3149/global-superstore-end-to-end-analysis/main/images/dashboard.png
+https://github.com/divyanshu3149/global-superstore-end-to-end-analysis/blob/main/images/dashboard.png
 
 ---
 
