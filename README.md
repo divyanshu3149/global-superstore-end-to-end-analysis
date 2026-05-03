@@ -108,13 +108,18 @@ This analysis highlights key profitability challenges driven by discounting and 
 
 ## 📂 Repository Structure
 
+```bash
+/data
+  global_superstore.csv
+/notebooks
+  eda_analysis.ipynb
+/sql
+  analysis_queries.sql
+/images
+  dashboard.png
+README.md
 ```
-/data           → Dataset files  
-/sql            → SQL queries  
-/notebooks      → Python EDA  
-/powerbi        → Dashboard file  
-/images         → Dashboard screenshots  
-README.md       → Project documentation  
+  
 ```
 
 ---
