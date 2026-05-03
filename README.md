@@ -95,7 +95,7 @@ Key questions addressed:
 
 ## 📊 Dashboard Preview
 
-*(Add screenshots here from your Power BI dashboard)*
+images/dashboard.png
 
 ---
 
