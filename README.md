@@ -73,13 +73,15 @@ Key questions addressed:
 
 ---
 
-## 📈 Key Insights
+## 📊 Key Business Insights
 
-* **High sales ≠ high profit**: Some regions generate strong sales but low or negative profit due to excessive discounts.
-* **Technology category** contributes the highest profit but also shows volatility due to discounting strategies.
-* **Certain countries consistently incur losses**, mainly due to high shipping costs and low margins.
-* **Discounts have a direct negative impact on profit**, especially beyond a certain threshold.
-* **Top customers contribute a large portion of revenue**, indicating dependency on a small customer base.
+Based on the end-to-end analysis of the Global Superstore dataset, the following critical insights were identified:
+
+* **Profitability Leakage:** Identified that the **Tables** and **Bookcases** sub-categories are consistently underperforming, showing a net loss in the US and APAC regions due to excessive discounting[cite: 1, 2].
+* **Regional Performance:** The **Technology** category drives the highest profit margins globally, while **Furniture** requires a strategy shift due to high shipping costs[cite: 2].
+* **Shipping Efficiency:** Discovered that **Standard Class** shipping experiences the most frequent delays despite being the most used method[cite: 2].
+* **Customer Segmentation:** The **Consumer** segment contributes to nearly 50% of total sales, but the **Corporate** segment has a higher average transaction value[cite: 2].
+* **Discount Correlation:** Analysis using **Seaborn** revealed a negative correlation between high discount rates (>15%) and overall profit margins[cite: 2].
 
 ---
 
