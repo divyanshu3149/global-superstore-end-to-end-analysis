@@ -125,3 +125,4 @@ GitHub Repository:
 https://github.com/divyanshu3149/global-superstore-end-to-end-analysis
 
 ---
+> Note: A smaller sample dataset is included for preview. The full dataset is larger and used for analysis.
